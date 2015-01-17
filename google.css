@@ -1,0 +1,83 @@
+body {
+    margin : 0px;
+    height : 100%;
+}
+
+header{
+    position : relative;
+    height : 10%;
+    width : 100%;
+    float : left;
+}
+
+header ul{
+    position : relative;
+    height : 100%;
+    width : 100%;
+    float : left;
+}
+
+header ul li{
+    position : relative;
+    height : 100%;
+    width : 10%;
+    float : right;
+    list-style-type: none;
+    text-align : center;
+}
+
+#search {
+    position : relative;
+    float : left;
+    width : 100%;
+    margin : 0 auto;
+    height : 80%;
+}
+
+#logo, #searchbar, #buttons {
+    margin : 0 auto;
+    width : 30%;
+    text-align : center;
+}
+
+footer {
+    width:100%;
+    height:40px;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+
+#footer_left, #footer_right{
+    list-style-type: none;
+}
+
+#footer_left {
+    float : left;
+    width : 40%;
+}
+
+#footer_right {
+    float : right;
+    width : 40%;
+}
+
+#footer_left li {
+    position : relative;
+    height : 100%;
+    width : 30%;
+    float : left;
+    list-style-type: none;
+    padding : 3px;
+    text-align : center;
+} 
+
+#footer_right li {
+    position : relative;
+    height : 100%;
+    width : 30%;
+    float : right;
+    list-style-type: none;
+    padding : 3px;
+    text-align : center;
+}
