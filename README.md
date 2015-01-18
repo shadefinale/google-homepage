@@ -9,4 +9,4 @@ Features:
 - Underlined text when hovered on.
 - Grid, Share, etc, images darken on hover.
 
-Should be viewable at http://shadefinale.github.io/google-homepage/.
+Should be viewable at http://shadefinale.github.io/google-homepage/google .
